@@ -1,0 +1,16 @@
+h1 {
+	color: grey;
+}
+.reply {
+	color: red;
+}
+.two {
+	background-color: yellow;
+}
+#three {
+	background-color: red;
+	color: white;
+}
+.group {
+	text-align: center;
+}

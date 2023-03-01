@@ -1,0 +1,38 @@
+body{
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+.bgimg {
+	background-image: url('https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?cs=srgb&dl=pexels-stein-egil-liland-1933239.jpg&fm=jpg');
+	background-size: cover;
+	width: 40vw;
+	height: 57vh;
+	text-align: center;
+}
+.name {
+	color: white;
+}
+
+.mail {
+	background-color: darkgrey;
+	border-radius: 8px;
+	font-size: 25px;
+	padding: 5px 100px;
+	border-color: blue;
+	border
+}
+.blue {
+	background-color: #0559f5;
+	border-radius: 10px;
+	font-size: 30px;
+	color: white;
+	padding: 5px 150px;
+	border-color: #3105f5;
+	border-width: 2px;
+	cursor: pointer;
+}
+.blue:hover {
+	background-color: #010685;
+	
+}

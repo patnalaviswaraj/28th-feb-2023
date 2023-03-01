@@ -1,0 +1,22 @@
+.first {
+	background-color: orange;
+	width: 800px;
+	height: 100px;
+	
+}
+.second {
+	background-color: white;
+	width: 800px;
+	height: 100px;
+	text-align: center;
+
+}
+.third {
+	background-color: green;
+	width: 800px;
+	height: 100px;
+}
+.chakra {
+	width: 100px;
+	height: 100px;
+}

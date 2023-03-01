@@ -1,0 +1,19 @@
+.bgmaine {
+	background-image: url('https://img.freepik.com/free-photo/colorful-abstract-nebula-space-background_53876-111356.jpg?w=740&t=st=1677048928~exp=1677049528~hmac=4de9b7d1c36ba8d2d8ef206347d2ddc97d9b4abe2259aa6967ac11f1bc8e283d');
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
+
+.stabut {
+	background-color: orange;
+	border-color: black;
+	color: white;
+	padding: 10px;
+}
+
+.fa-brands {
+	color: white;
+}
